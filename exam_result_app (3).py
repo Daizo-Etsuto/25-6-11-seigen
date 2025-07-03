@@ -4,8 +4,8 @@ from datetime import datetime
 import re
 
 # 公開期間の設定
-start_time = datetime(2025, 6, 10, 10, 0)
-end_time = datetime(2025, 6, 17, 14, 0)
+start_time = datetime(2025, 7, 3, 10, 0)
+end_time = datetime(2025, 7, 3, 14, 0)
 now = datetime.now()
 
 st.set_page_config(page_title="入塾テスト合否結果", page_icon="🔢")
