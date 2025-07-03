@@ -4,7 +4,7 @@ from datetime import datetime
 import re
 
 # 公開期間の設定
-start_time = datetime(2025, 7, 3, 10, 0)
+start_time = datetime(2025, 7, 1, 10, 0)
 end_time = datetime(2025, 7, 3, 14, 0)
 now = datetime.now()
 
